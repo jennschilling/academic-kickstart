@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jenn Schilling
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,36 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: 
   url: ""
 
+
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Visualization
+- Predictive Modeling
+- Ethics of Data and Machine Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: Graduate Certificate in Advanced Analytics in Higher Education
+    institution: Arizona State University
+    year: 2021
+  - course: Certificate in Secondary Education and Teaching
+    institution: Pima Community College
+    year: 2019
+  - course: Master of Science in Computational Operations Research
+    institution: College of William and Mary
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Bachelor of Science in Applied Mathematics with a Minor in Computer Science
+    institution: College of William and Mary
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +48,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: "mailto:jennifer.anne.schilling@gmail.com"
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/jennschilling/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jennschilling 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,10 +67,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jenn Schilling is currently a Data Analyst in the University Analytics and Institutional Research department at the University of Arizona in Tucson, Arizona. Prior to joining the University of Arizona, Jenn taught middle school for two and a half years. She also served as an AmeriCorps Vista, working in college access. Before turning to education, Jenn spent four years working in industry as an Operations Research Engineer in the supply chain at Intel and then as a Statistician in the advertising and market research industry. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Jenn is passionate about increasing access to and improving equity in education, and she believes strongly in the power of data and analytics to bring attention to inequities. Jenn has worked on freelance projects in data visualization, including the [Arizona FAFSA Challenge Dashboard](https://fafsachallenge.az.gov/dashboard). Jenn also enjoys teaching and sharing her knowledge on data literacy, data visualization, personal finance, math education, and personal development.
