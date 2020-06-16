@@ -21,14 +21,17 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
+interests:
+ - Data Visualization
+ - Predictive Modeling
+ - Ethics of Data and Machine Learning
+
 projects:
-# - Data Visualization
-# - Predictive Modeling
-# - Ethics of Data and Machine Learning
 - <a href = "https://gohighbrow.com/portfolio/master-your-money/">Master Your Money</a>, a course on personal finance
 - <a href = "https://gohighbrow.com/portfolio/everyday-math/">Everyday Math</a>, a course on everyday mathematics
 - Building Routines and Habits, an upcoming course on creating sustainable routines and habits
-- <a href = "http://jennschilling.me/rudi-website/">Rise Up Development Initiative</a>, a non-profit organization for community-based reproductive health empowerment in Uganda
+- Rise Up Development Initiative, a non-profit organization for community-based reproductive health empowerment in Uganda
+#- <a href = "http://jennschilling.me/rudi-website/">Rise Up Development Initiative</a>, a non-profit organization for community-based reproductive health empowerment in Uganda
 
 education:
   courses:
@@ -58,7 +61,10 @@ social:
   link: https://www.linkedin.com/in/jennschilling/
 - icon: github
   icon_pack: fab
-  link: https://github.com/jennschilling 
+  link: https://github.com/jennschilling
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/schill.in.az 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -77,4 +83,4 @@ user_groups:
 
 Jenn Schilling is currently a Data Analyst in the University Analytics and Institutional Research department at the University of Arizona in Tucson, Arizona. Prior to joining the University of Arizona, Jenn taught middle school for two and a half years. She also served as an AmeriCorps Vista, working in college access. Before turning to education, Jenn spent four years working in industry as an Operations Research Engineer in the supply chain at Intel and then as a Statistician in the advertising and market research industry. 
 
-Jenn is passionate about increasing access to and improving equity in education, and she believes strongly in the power of data and analytics to bring attention to inequities. Jenn has worked on freelance projects in data visualization, including the [Arizona FAFSA Challenge Dashboard](https://fafsachallenge.az.gov/dashboard). Jenn also enjoys teaching and sharing her knowledge on data literacy, data visualization, personal finance, math education, and personal development.
+Jenn is passionate about increasing access to and improving equity in education, STEM fields, and the tech industry, and she believes strongly in the power of data and analytics to bring attention to inequities. Jenn has worked on freelance projects in data visualization, including the [Arizona FAFSA Challenge Dashboard](https://fafsachallenge.az.gov/dashboard). Jenn also enjoys teaching and sharing her knowledge on data literacy, data visualization, personal finance, math education, and personal development.
