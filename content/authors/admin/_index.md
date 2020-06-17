@@ -26,7 +26,7 @@ interests:
  - Predictive Modeling
  - Ethics of Data and Machine Learning
 
-projects:
+sprojects:
 - <a href = "https://gohighbrow.com/portfolio/master-your-money/">Master Your Money</a>, a course on personal finance
 - <a href = "https://gohighbrow.com/portfolio/everyday-math/">Everyday Math</a>, a course on everyday mathematics
 - Building Routines and Habits, an upcoming course on creating sustainable routines and habits
