@@ -27,9 +27,9 @@ interests:
  - Ethics of Data and Machine Learning
 
 sprojects:
+- <a href = "https://listenable.io/web/courses/96/building-routines-and-habits/">Building Routines and Habits</a>, a course on creating sustainable routines and habits
 - <a href = "https://gohighbrow.com/portfolio/master-your-money/">Master Your Money</a>, a course on personal finance
 - <a href = "https://gohighbrow.com/portfolio/everyday-math/">Everyday Math</a>, a course on everyday mathematics
-- Building Routines and Habits, an upcoming course on creating sustainable routines and habits
 - <a href = "http://riseupdevelopmentinitiative.org/">Rise Up Development Initiative</a>, a non-profit organization for community-based reproductive health empowerment in Uganda
 
 education:
