@@ -63,7 +63,7 @@ social:
   link: https://github.com/jennschilling
 - icon: instagram
   icon_pack: fab
-  link: https://www.instagram.com/schill.in.az 
+  link: https://www.instagram.com/jenn_schilling 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
