@@ -22,7 +22,7 @@ organizations:
 bio: 
 
 interests:
- - Data Visualization
+ - Data Visualization | <a href = "https://public.tableau.com/profile/jenn.schilling#!/">Tableau Portfolio</a>
  - Predictive Modeling
  - Ethics of Data and Machine Learning
 
