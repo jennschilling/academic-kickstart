@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Rise Up Development Initiative 
 
 # View.
 #   1 = List
@@ -11,4 +11,16 @@ view: 2
 header:
   caption: ""
   image: ""
+  
+
 ---
+
+<html>
+  <head>
+    <title>https://jennschilling.me/rudi-website</title>
+    <link rel="canonical" href="https:/riseupdevelopmentinitiative.org"/>
+    <meta name="robots" content="noindex">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="refresh" content="0; url=https:/riseupdevelopmentinitiative.org"/>
+  </head>
+</html>
