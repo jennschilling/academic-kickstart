@@ -30,7 +30,7 @@ sprojects:
 - <a href = "https://gohighbrow.com/portfolio/building-routines-and-habits/">building routines and habits</a>, a course on creating sustainable routines and habits
 - <a href = "https://gohighbrow.com/portfolio/master-your-money/">master your money</a>, a course on personal finance
 - <a href = "https://gohighbrow.com/portfolio/everyday-math/">everyday math</a>, a course on everyday mathematics
-- <a href = "http://riseupdevelopmentinitiative.org/">rise up development initiative</a>, a non-profit organization for community-based reproductive health empowerment in Uganda
+- <a href = "https://riseupdevelopmentinitiative.org/">rise up development initiative</a>, a non-profit organization for community-based reproductive health empowerment in Uganda
 
 education:
   courses:
