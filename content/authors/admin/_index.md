@@ -1,6 +1,6 @@
 ---
 # Display name
-title: jenn schilling
+title: Jenn Schilling
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: data scientist
+role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -22,29 +22,29 @@ organizations:
 bio: 
 
 interests:
- - data visualization | <a href = "https://public.tableau.com/profile/jenn.schilling#!/">tableau portfolio</a>
- - predictive modeling
- - ethics of data and machine learning
+ - Data Visualization | <a href = "https://public.tableau.com/profile/jenn.schilling#!/">Tableau Portfolio</a>
+ - Predictive Modeling
+ - Ethics of Data and Machine Learning
 
 sprojects:
-- <a href = "https://gohighbrow.com/portfolio/building-routines-and-habits/">building routines and habits</a>, a course on creating sustainable routines and habits
-- <a href = "https://gohighbrow.com/portfolio/master-your-money/">master your money</a>, a course on personal finance
-- <a href = "https://gohighbrow.com/portfolio/everyday-math/">everyday math</a>, a course on everyday mathematics
-- <a href = "https://riseupdevelopmentinitiative.org/">rise up development initiative</a>, a non-profit organization for community-based reproductive health empowerment in Uganda
+- <a href = "https://gohighbrow.com/portfolio/building-routines-and-habits/">Building Routines and Habits</a>, a course on creating sustainable routines and habits
+- <a href = "https://gohighbrow.com/portfolio/master-your-money/">Master Your Money</a>, a course on personal finance
+- <a href = "https://gohighbrow.com/portfolio/everyday-math/">Everyday Math</a>, a course on everyday mathematics
+- <a href = "https://riseupdevelopmentinitiative.org/">Rise up Development Initiative</a>, a non-profit organization for community-based reproductive health empowerment in Uganda
 
 education:
   courses:
-  - course: graduate certificate in advanced analytics in higher education
-    institution: arizona state university
+  - course: Graduate Certificate in Advanced Analytics in Higher Education
+    institution: Arizona State University
     year: 2021
-  - course: certificate in secondary education and teaching
-    institution: pima community college
+  - course: Certificate in Secondary Education and Teaching
+    institution: Pima Community College
     year: 2019
-  - course: master of science in computational operations research
-    institution: college of william and mary
+  - course: Master of Science in Computational Operations Research
+    institution: College of William and Mary
     year: 2012
-  - course: bachelor of science in applied mathematics with a minor in computer science
-    institution: college of william and mary
+  - course: Bachelor of Science in Applied Mathematics with a Minor in Computer Science
+    institution: College of William and Mary
     year: 2011
 
 # Social/Academic Networking
@@ -88,6 +88,5 @@ user_groups:
 # - Visitors
 ---
 
-jenn schilling is currently a data analyst in the university analytics and institutional research department at the university of arizona in tucson, arizona. prior to joining the university of arizona, jenn taught middle school for two and a half years. she also served as an americorps vista, working in college access. before turning to education, jenn spent four years working in industry as an operations research engineer in the supply chain at intel and then as a statistician in the advertising and market research industry. 
+Jenn Schilling is a Senior Data Analyst in the University Analytics & Institutional Research department at the University of Arizona. Prior to joining the University of Arizona, Jenn taught middle school for two and a half years. She also served as an AmeriCorps VISTA, working in college access. Before turning to education, Jenn spent four years working in the private sector as an Operations Research Engineer in the supply chain at Intel and as a Statistician in the advertising and market research industry. Jenn has worked on freelance projects in data visualization, including the [Arizona FAFSA challenge dashboard](https://fafsachallenge.az.gov/dashboard) and the [Arizona FAFSA partner network](https://fafsachallenge.az.gov/dashboards/fafsa-partner-network). Jenn is also an adjunct faculty member at the College for Creative Studies, where she teaches a course on data visualization in R.
 
-jenn is passionate about increasing access to and improving equity in education, stem fields, and the tech industry, and she believes strongly in the power of data and analytics to bring attention to inequities. jenn has worked on freelance projects in data visualization, including the [arizona fafsa challenge dashboard](https://fafsachallenge.az.gov/dashboard) and the [arizona fafsa partner network](https://fafsachallenge.az.gov/dashboards/fafsa-partner-network). jenn also enjoys teaching and sharing her knowledge on data literacy, data visualization, personal finance, math education, and personal development.
