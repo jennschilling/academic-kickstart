@@ -14,7 +14,7 @@ baseurl = "https://jennschilling.me/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; jenn schilling {year}"
+copyright = "&copy; Jenn Schilling {year}"
 
 ############################
 ## Advanced options below ##
