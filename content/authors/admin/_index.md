@@ -22,15 +22,15 @@ organizations:
 bio: 
 
 interests:
- - Data Visualization | <a href = "https://public.tableau.com/profile/jenn.schilling#!/">Tableau Portfolio</a>
+ - Data Visualization | <a href = "https://github.com/jennschilling/tidytuesday-2021/blob/main/README.md">Data Viz in R</a> | <a href = "https://public.tableau.com/profile/jenn.schilling#!/">Data Viz in Tableau</a>
  - Predictive Modeling
  - Ethics of Data and Machine Learning
 
 sprojects:
+- <a href = "https://riseupdevelopmentinitiative.org/">Rise up Development Initiative</a>, a non-profit organization for community-based reproductive health empowerment in Uganda
 - <a href = "https://gohighbrow.com/portfolio/building-routines-and-habits/">Building Routines and Habits</a>, a course on creating sustainable routines and habits
 - <a href = "https://gohighbrow.com/portfolio/master-your-money/">Master Your Money</a>, a course on personal finance
 - <a href = "https://gohighbrow.com/portfolio/everyday-math/">Everyday Math</a>, a course on everyday mathematics
-- <a href = "https://riseupdevelopmentinitiative.org/">Rise up Development Initiative</a>, a non-profit organization for community-based reproductive health empowerment in Uganda
 
 education:
   courses:
